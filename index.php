@@ -6,7 +6,7 @@
 	<title>welcome to my website!</title>
 </head>
 <body>
-	<?php echo "hello world!" ?>
+	<?php echo "i love you!" ?>
 
 </body>
 </html>
